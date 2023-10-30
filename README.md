@@ -1,5 +1,6 @@
 # 100daysofVerification
-100 DAY VERIFICATION CHALLENGE - DAY 1 (Learn Verification with Sweety Pinjani) 
+100 DAY VERIFICATION CHALLENGE -DAY(Learn Verification with Sweety Pinjani) 
+
 Day:1 to 5 => Cache Mapping
 
 Day5 to #Day11 : Computer Architecture
