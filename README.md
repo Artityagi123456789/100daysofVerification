@@ -2,7 +2,6 @@
 100 DAY VERIFICATION CHALLENGE - DAY 1 (Learn Verification with Sweety Pinjani) 
 Day:1 to 5 => Cache Mapping
 
-
 Day5 to #Day11 : Computer Architecture
 👉Here is what we covered in Day-5 to Day-11:
 ✔ Pipelining - 5 stage pipeline, numerical
