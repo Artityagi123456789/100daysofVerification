@@ -20,3 +20,41 @@ Day5 to #Day11 : Computer Architecture
 ✔ Microprocessors, Microcontrollers, Interrupts
 
 ✔DMA, Synchronization, Paging, Numerical
+
+#Day12 to #day25  : Digital Electronics.
+
+👉Here is what we covered in Day-12 to Day-25:
+
+        ✔ Day-12. Flip Flop & Latches
+
+         ✔Day-13. Logic Gates
+
+         ✔Day-14. Adders, Subtractors
+
+         ✔Day-15. Encoders, Decoders
+
+         ✔Day16. Counters, Timers
+
+         ✔Day-17. MUX, DEMUX
+
+         ✔Day-18. FSM, Sequence Detectors
+
+         ✔Day-19. Sequential & Combinational Circuits
+
+         ✔Day-20. Boolean Algebra, Number System, Digital codes.
+
+         ✔Day-21. Optimization techniques
+
+         ✔Day-22. Static Timing Analysis
+
+         ✔Day-23. Memory elements
+
+         ✔Day-24. Digital Electronics Miscellaneous
+
+         ✔Day-25. MOSFET, BJT, CMOS
+
+
+
+
+
+
